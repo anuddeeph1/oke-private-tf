@@ -16,7 +16,7 @@ A Module is a canonical, reusable, best-practices definition for how to run a si
 Instead of figuring out the details of how to run a piece of infrastructure from scratch, you can reuse existing code that has been proven in production. And instead of maintaining all that infrastructure code yourself, you can leverage the work of the Module community to pick up infrastructure improvements through a version number bump.
 
 ## How to use this Module:
-  - [Private OKE with Native POD networking](examples/oke-native-pods-ips): This is an example of how to use the oci-oke module to deploy Container Engine for Kubernetes (OKE) with VCN-native support and Native POD networking.
+  - Private OKE with Native POD networking: This is an example of how to use the oci-oke module to deploy Container Engine for Kubernetes (OKE) with VCN-native support and Native POD networking.
 
 To deploy OKE using this Module with minimal effort use this:
 
