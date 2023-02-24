@@ -1,4 +1,4 @@
-# terraform-arch-oci-oke
+# terraform-oci-oke
 
 These is Terraform module that deploys [Container Engine for Kubernetes (OKE)](https://docs.oracle.com/en-us/iaas/Content/ContEng/home.htm) on [Oracle Cloud Infrastructure (OCI)](https://cloud.oracle.com/en_US/cloud-infrastructure).
 
